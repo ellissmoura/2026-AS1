@@ -1,6 +1,6 @@
 # Atividade 18 — Diagrama de Classes do BiblioTech
 
-- **Nome:** SEU NOME COMPLETO
+- **Nome:** ellis moura
 - **Turma:** 2º ano — Técnico em Informática Integrado
 
 ## Diagrama
